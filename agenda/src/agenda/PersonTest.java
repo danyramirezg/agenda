@@ -4,7 +4,7 @@ public class PersonTest {
 
     public static void main(String[] args) {
 
-        Person addPerson = new Person("Vladyslavvv", "Ramirez", "12345");
+        Person addPerson = new Person("Dany", "Ramirez", "12345");
         System.out.println("Shows information by directly accessing its attributes.");
         System.out.println("Name: " + addPerson.name);
         System.out.println("Last Name: " + addPerson.lastName);
