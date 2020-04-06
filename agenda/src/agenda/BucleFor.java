@@ -1,4 +1,4 @@
-//Practice syntax cycle for
+package agenda;//Practice syntax cycle for
 
 public class BucleFor {
 
